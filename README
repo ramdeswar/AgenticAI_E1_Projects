@@ -17,7 +17,4 @@ It then computes a **final score** (average) and returns:
 
 The output is a **clean text report**, not JSON.
 
-## Setup
-
-1. Install dependencies:
-
+Run main.py file to test the code
