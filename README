@@ -1,0 +1,23 @@
+# Prompt Quality Scoring Agent (LangChain + Google Gemini)
+
+This project implements a simple prompt quality scoring agent using **LangChain** and **Google Gemini**.
+
+Given a text prompt, the agent evaluates:
+
+- Clarity (0–10)
+- Specificity / Details (0–10)
+- Context (0–10)
+- Output Format & Constraints (0–10)
+- Persona Defined (0–10)
+
+It then computes a **final score** (average) and returns:
+
+- A short explanation
+- 2–3 improvement suggestions
+
+The output is a **clean text report**, not JSON.
+
+## Setup
+
+1. Install dependencies:
+
