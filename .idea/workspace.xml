@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bb44c78-fece-45a2-925d-4dc033b96637" name="Changes" comment="Initial push">
+      <change afterPath="$PROJECT_DIR$/04_AI_Powered_Customer_support/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_AI_Powered_Customer_support/customer_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_AI_Powered_Customer_support/sampletestprompts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_prompt_evaluator_Langchain/.env" beforeDir="false" afterPath="$PROJECT_DIR$/02_prompt_evaluator_Langchain/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Travel_Agent_LangGraph/.env" beforeDir="false" afterPath="$PROJECT_DIR$/03_Travel_Agent_LangGraph/.env" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,23 +29,27 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="3CxFG41fsU8R2SDOQ3JGP0bAZyW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.customer_support.executor": "Run",
     "Python.main.executor": "Run",
     "Python.prompt_evaluator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ramde/PycharmProjects/pythonProject1/03_Travel_Agent_LangGraph"
+    "last_opened_file_path": "C:/Users/ramde/PycharmProjects/pythonProject1/04_AI_Powered_Customer_support"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ramde\PycharmProjects\pythonProject1\04_AI_Powered_Customer_support" />
       <recent name="C:\Users\ramde\PycharmProjects\pythonProject1\03_Travel_Agent_LangGraph" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -83,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778207019189</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial push">
+      <option name="closed" value="true" />
+      <created>1778207079862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778207079862</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
