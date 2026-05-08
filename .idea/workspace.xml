@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bb44c78-fece-45a2-925d-4dc033b96637" name="Changes" comment="Initial push">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_evaluator/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_evaluator/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_evaluator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prompt_evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_evaluator/prompt_evaluator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampletestprompts" beforeDir="false" afterPath="$PROJECT_DIR$/prompt_evaluator/sampletestprompts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_prompt_evaluator_Langchain/.env" beforeDir="false" afterPath="$PROJECT_DIR$/02_prompt_evaluator_Langchain/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Travel_Agent_LangGraph/.env" beforeDir="false" afterPath="$PROJECT_DIR$/03_Travel_Agent_LangGraph/.env" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prompt_evaluator.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.prompt_evaluator.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ramde/PycharmProjects/pythonProject1/03_Travel_Agent_LangGraph"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ramde\PycharmProjects\pythonProject1\03_Travel_Agent_LangGraph" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ramde\PycharmProjects\pythonProject1\prompt_evaluator" />
     </key>
@@ -74,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777320907166</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial push">
+      <option name="closed" value="true" />
+      <created>1778207019189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778207019189</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
